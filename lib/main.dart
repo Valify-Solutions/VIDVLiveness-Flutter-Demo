@@ -22,12 +22,12 @@ class _MyAppState extends State<MyApp> {
   final _vidvlivenessFlutterPlugin = VidvlivenessFlutterPlugin();
 
   // Example credentials, replace with real values
-  final String baseURL = 'https://www.valifystage.com';
-  final String bundleKey = 'ad44eb94ca6747beaf99eef02407221f';
-  final String userName = 'mobileusername';
-  final String password = 'q5YT54wuJ2#mbanR';
-  final String clientID = 'aKM21T4hXpgHFsgNJNTKFpaq4fFpoQvuBsNWuZoQ';
-  final String clientSecret = 'r0tLrtxTue8c4kNmPVgaAFNGSeCWvL4oOZfBnVXoQe2Ffp5rscXXAAhX50BaZEll8ZRtr2BlgD3Nk6QLOPGtjbGXYoCBL9Fn7QCu5CsMlRKDbtwSnUAfKEG30cIv8tdW';
+  final String baseURL = '';
+  final String bundleKey = '';
+  final String userName = '';
+  final String password = '';
+  final String clientID = '';
+  final String clientSecret = '';
 
   // Configuration parameters
   bool _enableSmile = true;
